@@ -1,5 +1,5 @@
 # Wishlist
-your cart of cravings
+This project was made as part of AuburnHacks by Sarthak Arora, Naman Budhiraja and Rajshree Mondal.
 
 
 
